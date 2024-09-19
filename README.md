@@ -1,5 +1,6 @@
 https://www.kaggle.com/code/ahsencakir/churn-analysis-noise-and-anomaly-detection
 
+Not: Düzenlemeye girdiğinizde veya code olarak formatı değiştirirseniz daha iyi olur.
 
 Seçtiğimiz veri seti Google Play Store Apps ve şu sütunları içeriyor:
 
